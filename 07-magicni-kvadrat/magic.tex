@@ -6,6 +6,10 @@
 \usepackage{amsthm}
 \usepackage{url}
 \usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{makeidx}
+\usepackage{booktabs}
+\usepackage{multirow}
 {\theoremstyle{plain}
 \newtheorem{izrek}{Izrek}[section]
 \newtheorem{posledica}[izrek]{Posledica}
@@ -142,7 +146,7 @@ Lo Shu, vendar je vsako število povečano za 19.
 % Konec magičnega kvadrata
 
 Z magičnimi kvadrati so se ukvarjali tudi najbolj znani matematiki kot na
-primer Euler, glej ???. % ključ: euler
+primer Euler, glej~\cite{euler}. % ključ: euler
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -163,7 +167,13 @@ približno 250 let pred Dürerjevim časom. % sklic: fig:durer
 % - oznaka: fig:durer
 % Dodatni parameter v oglatih oglepajih sliko nastavi velikost
 % slike na 150% originalne velikosti.
-\includegraphics[scale=1.3]{durer.png}
+\begin{figure}[!ht]
+   \centering
+   \caption{Dürerjev magični kvadrat}
+   \includegraphics[scale=1.3]{durer.png}
+   \label{fig:durer}   
+\end{figure}
+
 
 Vsoto 34 je mogoče najti pri seštevanju števil v vsaki vrstici, vsakem stolpcu,
 na vsaki diagonali, v vsakem od štirih kvadrantov, v sredinskih štirih poljih,
@@ -186,7 +196,13 @@ Pasijonska fasada na katedrali Sagrada família v Barceloni
 % Tu vstavite sliko
 % - napis nad sliko: Pasijonska fasada, Sagrada Família
 % - oznaka: fig:sagrada
-\includegraphics{sagrada.png}
+\begin{figure}[!ht]
+   \centering
+   \caption{Pasijonska fasada, Sagrada Família}
+   \includegraphics[scale=0.45]{sagrada.png} 
+   \label{fig:sagrada}  
+\end{figure}
+
 
 Vsota števil v vrsticah, stolpcih oziroma na diagonalah je 33 -- Jezusova starost
 v času pasijona. Strukturno je kvadrat podoben Dürerjevemu, vendar so števila
@@ -270,21 +286,27 @@ iz kvadrata Lo Shu z zrcaljenjem preko sredinske vodoravne črte.
 % - napis nad tabelo: Število različnih normalnih magičnih kvadratov
 % - oznaka: table:stevila
 % Začetek tabele
-      točna vrednost približek
-      red 1 2 3 4 5 6
-      število kvadratov 1 0 1 880 275305224 !!
+\begin{table}[htp]
+   \centering
+   \caption{Število različnih normalnih magičnih kvadratov}
+\begin{tabular}{lcccccc|}\toprule
+   \multicolumn{5}{c}{točna vrednost}točna vrednost &približek \toprule
+   & red & 1 & 2 & 3 & 4 & 5 & 6 
+   & število kvadratov & 1 & 0 & 1 & 880 & 275305224 & !! \bottomrule
+\end{tabular}
+\label{table:stevila}
+\end{table}
+
 % Konec tabele
 
 Vse normalne magične kvadrate reda 4 je oštevilčil Frénicle de Bessy
-leta 1693, glej ???, in jih je moč najti v knjigi ???
+leta 1693, glej ~\cite{bessy} , in jih je moč najti v knjigi ~\cite{berlekamp}
 iz leta 1982. Število normalnih kvadratov reda 5 je izračunal
-R. Schroeppel leta 1973 (glej Gardner ???).
+R. Schroeppel leta 1973 (glej Gardner ~\cite{gardner}).
 Natančno število vseh različnih normalnih magičnih kvadratov reda 6 ni znano.
-Avtorja navedenega približka sta Pinn in Wieczerkowski (glej ???), ki
+Avtorja navedenega približka sta Pinn in Wieczerkowski (glej ~\cite{pinn}), ki
 sta za oceno uporabila simulacijo Monte Carlo in metode statistične mehanike.
- % ključi: bessy, berlekamp, gardner, pinn
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Primeri}
 
@@ -320,12 +342,9 @@ magični kvadrati redov 5, 6 in 9.
 %   36 & 38 & 49 & 60 & 71 & 73 &  3 & 14 & 25 \\\hline
 %   37 & 48 & 59 & 70 & 81 &  2 & 13 & 24 & 35 \\\hline
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \newpage
 
-% Tu vstavite bibliografijo
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliographystyle{siam}
+\bibliography{magic.bib}
 
 \end{document}
