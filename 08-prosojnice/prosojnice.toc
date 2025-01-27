@@ -1,2 +1,3 @@
 \babel@toc {slovene}{}\relax 
 \beamer@sectionintoc {1}{Paket \texttt {beamer}}{3}{0}{1}
+\beamer@sectionintoc {2}{Paketa \texttt {amsmath} in \texttt {amsfonts}}{12}{0}{2}
