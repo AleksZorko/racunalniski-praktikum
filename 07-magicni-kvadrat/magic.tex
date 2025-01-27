@@ -30,7 +30,7 @@
 \date{}
 \maketitle
 \begin{center}
-   \includegraphics{slika.pdf}
+\includegraphics{slika.pdf}
 \end{center}
 
 Prirejeno iz virov:
@@ -71,7 +71,7 @@ Primer magičnega kvadrata reda 3 je prikazan v tabeli 1.
 \begin{definicija}
    Magični kvadrat reda $n$ je \textcolor{red}{\emph{normalen}}, če v njem nastopajo števila
    \begin{equation}
-      % oznaka: eq:numbers
+      \label{eq:numbers}
       1, 2, 3, \ldots, n^2-1, n^2.
    \end{equation}
 \end{definicija}
@@ -139,10 +139,10 @@ primer Euler, glej~\cite{euler}.
 Najzgodnejši znani magični kvadrat reda 4 je bil odkrit na napisu
 v Khajurahu v Indiji in v Enciklopediji Bratovščine Čistosti iz enajstega
 ali dvanajstega stoletja. Vrh vsega gre celo za ">panmagični kvadrat"<.
-V Evropi sta morda najbolj znana naslednja magična kvadrata reda 4:
+V Evropi sta morda najbolj znana naslednja magična kvadrata reda 4.
 
-Magični kvadrat v litografiji Melancholia I (glej sliko 1)
-za izsek s kvadratom) Albrechta Dürerja naj bi bil najzgodnejši magični kvadrat
+\textbf{Magični kvadrat v litografiji Melancholia} I (glej sliko 1)
+za izsek s kvadratom Albrechta Dürerja naj bi bil najzgodnejši magični kvadrat
 v evropski umetnosti. Zelo podoben je kvadratu Yang Huija, ki je nastal na Kitajskem
 približno 250 let pred Dürerjevim časom. 
 
@@ -217,7 +217,7 @@ in zato kvadrat ni normalen.
       Magična konstanta normalnega magičnega kvadrata reda n
       je enaka
       \begin{equation}
-         % oznaka: eq:mc
+         \label{eq:mc}
          M_2(n) = \frac{1}{2} n(n^2+1)
       \end{equation}
 \end{izrek}
@@ -230,15 +230,15 @@ in zato kvadrat ni normalen.
       števil (glej (1) na strani 2) enaka
       $1+2+3+\dots+n^2=\sum_{k=1}^{n^2}k=\frac{1}{2}n^2(n^2+1)$. Ker imamo
       v kvadratu $n$ vrstic z enako vsoto, je vsota števil v eni vrstici
-      enaka številu $M_2(n)$. % sklica: eq:numbers, eq:numbers
+      enaka številu $M_2(n)$. \eqref{eq:numbers}
 \end{proof}
 
 
 Preprost račun pokaže, da je konstanti (2) analogna konstanta
 $M_2(n;A,D)$ za magični kvadrat, v katerem so nameščena števila
-$A$, $A+D$, $A+2D$, \dots, $A+(n^2-1)D$, enaka % sklic: eq:mc
+$A$, $A+D$, $A+2D$, \dots, $A+(n^2-1)D$, enaka \eqref{eq:mc}
 $1 + 2 + 3 + \cdots + n^2 = \sum_{k=1}^{n^2} k = \frac{1}{2} n^2 (n^2 + 1)$
-Kvadratu v tabeli ?!? ustrezata konstanti $A=20$ in $D=1$.
+Kvadratu v tabeli 3 ustrezata konstanti $A=20$ in $D=1$.
 
 \begin{definicija}
       Če vsako od števil v normalnem magičnem kvadratu reda $n$ odštejemo
@@ -273,8 +273,8 @@ iz kvadrata Lo Shu z zrcaljenjem preko sredinske vodoravne črte.
       iz drugega s pomočjo zasukov oziroma zrcaljenj.
 \end{definicija}
 
-Števila različnih normalnih magičnih kvadratov se nahajajo v tabeli ??.
-% sklic: table:stevila
+Števila različnih normalnih magičnih kvadratov se nahajajo v tabeli \ref{table:stevila}.
+
 
 \begin{table}[h]
    \centering
@@ -302,7 +302,7 @@ sta za oceno uporabila simulacijo Monte Carlo in metode statistične mehanike.
 
 \section{Primeri}
 
-V tabelah ?!?, ?!? in ?!? so prikazani
+V tabelah 8, 9 in 10 so prikazani
 magični kvadrati redov 5, 6 in 9.
 
 \begin{table}
