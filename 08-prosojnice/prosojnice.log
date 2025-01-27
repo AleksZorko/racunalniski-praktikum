@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.25)  27 JAN 2025 17:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.25)  27 JAN 2025 18:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -781,7 +781,63 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [21
 
-])
+]) (prosojnice/4-stolpci-slike.tex
+<slike/fig-1.png, id=155, 371.88937pt x 295.1025pt>
+File: slike/fig-1.png Graphic file (type png)
+<use slike/fig-1.png>
+Package pdftex.def Info: slike/fig-1.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [22
+
+ <./slike/fig-1.png>]
+<slike/fig-2.png, id=162, 371.88937pt x 295.1025pt>
+File: slike/fig-2.png Graphic file (type png)
+<use slike/fig-2.png>
+Package pdftex.def Info: slike/fig-2.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [23
+
+ <./slike/fig-2.png>]
+<slike/fig-3.png, id=169, 371.88937pt x 295.1025pt>
+File: slike/fig-3.png Graphic file (type png)
+<use slike/fig-3.png>
+Package pdftex.def Info: slike/fig-3.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [24
+
+ <./slike/fig-3.png>]
+<slike/fig-4.png, id=176, 371.88937pt x 295.1025pt>
+File: slike/fig-4.png Graphic file (type png)
+<use slike/fig-4.png>
+Package pdftex.def Info: slike/fig-4.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [25
+
+ <./slike/fig-4.png>]
+<slike/fig-5.png, id=184, 371.88937pt x 295.1025pt>
+File: slike/fig-5.png Graphic file (type png)
+<use slike/fig-5.png>
+Package pdftex.def Info: slike/fig-5.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [26
+
+ <./slike/fig-5.png>]
+<slike/fig-6.png, id=191, 371.88937pt x 295.1025pt>
+File: slike/fig-6.png Graphic file (type png)
+<use slike/fig-6.png>
+Package pdftex.def Info: slike/fig-6.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [27
+
+ <./slike/fig-6.png>]
+<slike/fig-7.png, id=198, 371.88937pt x 295.1025pt>
+File: slike/fig-7.png Graphic file (type png)
+<use slike/fig-7.png>
+Package pdftex.def Info: slike/fig-7.png  used on input line 14.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+ [28
+
+ <./slike/fig-7.png>])
 \tf@nav=\write6
 \openout6 = `prosojnice.nav'.
 
@@ -797,20 +853,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `prosojnice.out' has not changed.
-(rerunfilecheck)             Checksum: 2CBF0B269EF33202654AF581380DDA36;427.
+(rerunfilecheck)             Checksum: D23DBA920A37C650DA6B4AD435B0D5F3;556.
  ) 
 Here is how much of TeX's memory you used:
- 23269 strings out of 474485
- 452876 string characters out of 5743733
+ 23355 strings out of 474485
+ 454526 string characters out of 5743733
  1933542 words of memory out of 5000000
- 44999 multiletter control sequences out of 15000+600000
- 587171 words of font info for 93 fonts, out of 8000000 for 9000
+ 45064 multiletter control sequences out of 15000+600000
+ 590269 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,11n,123p,474b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on prosojnice.pdf (21 pages, 169101 bytes).
+Output written on prosojnice.pdf (28 pages, 219424 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
- 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

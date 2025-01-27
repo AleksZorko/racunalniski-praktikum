@@ -33,8 +33,13 @@
 \headcommand {\beamer@framepages {20}{20}}
 \headcommand {\slideentry {3}{0}{3}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@partpages {1}{21}}
-\headcommand {\beamer@subsectionpages {22}{21}}
-\headcommand {\beamer@sectionpages {22}{21}}
-\headcommand {\beamer@documentpages {21}}
-\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\beamer@sectionpages {19}{21}}
+\headcommand {\beamer@subsectionpages {19}{21}}
+\headcommand {\sectionentry {4}{Stolpci in slike}{22}{Stolpci in slike}{0}}
+\headcommand {\slideentry {4}{0}{1}{22/28}{}{0}}
+\headcommand {\beamer@framepages {22}{28}}
+\headcommand {\beamer@partpages {1}{28}}
+\headcommand {\beamer@subsectionpages {29}{28}}
+\headcommand {\beamer@sectionpages {29}{28}}
+\headcommand {\beamer@documentpages {28}}
+\headcommand {\gdef \inserttotalframenumber {14}}
