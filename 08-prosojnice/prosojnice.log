@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.25)  27 JAN 2025 03:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.25)  27 JAN 2025 17:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,28 +763,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]) (prosojnice/2-paketa-amsmath-amsfonts.tex [12
 
-]
-Overfull \hbox (173.16006pt too wide) detected at line 32
-\OT1/cmr/m/n/10.95 (\T1/ppl/m/it/10.95 a \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 b\OT1/cmr/m/n/10.95 )[] = [] = (\T1/ppl/m/it/10.95 a \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 b\OT1/cmr/m/n/10.95 )(\T1/ppl/m/it/10.95 a \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 b\OT1/cmr/m/n/10.95 ) [] (\T1/ppl/m/it/10.95 a \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 b\OT1/cmr/m/n/10.95 ) = \T1/ppl/m/it/10.95 a[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 na[]b \OT1/cmr/m/n/10.95 + [] + []\T1/ppl/m/it/10.95 a[]b[] \OT1/cmr/m/n/10.95 + [] + \T1/ppl/m/it/10.95 nab[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 b[] \OT1/cmr/m/n/10.95 = [] []\T1/ppl/m/it/10.95 a[]b[]
- []
+] [13
 
-[13
+] [14
 
-]
-Overfull \hbox (183.5652pt too wide) detected at line 45
-\T1/ppl/m/it/10.95 y \OT1/cmr/m/n/10.95 = \T1/ppl/m/it/10.95 x[] \OMS/cmsy/m/n/10.95 ^^@ \T1/ppl/m/n/10.95 3\OMS/cmsy/m/n/10.95 j\T1/ppl/m/it/10.95 x\OMS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 + \T1/ppl/m/n/10.95 2\T1/ppl/m/it/10.95 y \OT1/cmr/m/n/10.95 = \T1/ppl/m/n/10.95 3 []\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^Y \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^@ \T1/ppl/m/n/10.95 2\T1/ppl/m/it/10.95 y \OT1/cmr/m/n/10.95 = [][](\T1/ppl/m/it/10.95 x \OMS/cmsy/m/n/10.95 ^^@ \T1/ppl/m/n/10.95 2\OT1/cmr/m/n/10.95 ) + \T1/ppl/m/n/10.95 3\T1/ppl/m/it/10.95 y \OT1/cmr/m/n/10.95 = \T1/ppl/m/n/10.95 2[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/n/10.95 6\T1/ppl/m/it/10.95 y \OT1/cmr/m/n/10.95 = \T1/ppl/m/n/10.95 2[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/n/10.95 1\T1/ppl/m/it/10.95 y \OT1/cmr/m/n/10.95 = [](\T1/ppl/m/it/10.95 x \OMS/cmsy/m/n/10.95 ^^@ \T1/ppl/m/n/10.95 3\OT1/cmr/m/n/10.95 ) + [][](\T1/ppl/m/it/10.95 x \OT1/cmr/m/n/10.95 + \T1/ppl/m/n/10.95 1\OT1/cmr/m/n/10.95 )
- []
-
-[14
-
-]
-Overfull \hbox (20.56866pt too wide) detected at line 56
-\OT1/cmr/m/n/10.95 (\T1/ppl/m/n/10.95 1 \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^A \OT1/cmr/m/n/10.95 (\T1/ppl/m/n/10.95 1 \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [] + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[]\OT1/cmr/m/n/10.95 ) == (\T1/ppl/m/n/10.95 1 \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \T1/ppl/m/it/10.95 x[]\OT1/cmr/m/n/10.95 )[]\OML/cmm/m/it/10.95 :
- []
-
-[15
+] [15
 
 ] [16
+
+] [17
+
+] [18
+
+]) (prosojnice/3-analiza-logika-mnozice.tex [19
+
+] [20
+
+] [21
 
 ])
 \tf@nav=\write6
@@ -802,20 +797,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `prosojnice.out' has not changed.
-(rerunfilecheck)             Checksum: 41FCB7D983D39BBCA638D6118C39D36F;288.
+(rerunfilecheck)             Checksum: 2CBF0B269EF33202654AF581380DDA36;427.
  ) 
 Here is how much of TeX's memory you used:
- 23170 strings out of 474485
- 450567 string characters out of 5743733
- 1932542 words of memory out of 5000000
- 44919 multiletter control sequences out of 15000+600000
- 578001 words of font info for 76 fonts, out of 8000000 for 9000
+ 23269 strings out of 474485
+ 452876 string characters out of 5743733
+ 1933542 words of memory out of 5000000
+ 44999 multiletter control sequences out of 15000+600000
+ 587171 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,11n,123p,474b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on prosojnice.pdf (16 pages, 147358 bytes).
+<C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Gamer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on prosojnice.pdf (21 pages, 169101 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
